@@ -1,0 +1,6 @@
+node_modes
+web\/node_modules
+dist
+.vercel
+
+...
