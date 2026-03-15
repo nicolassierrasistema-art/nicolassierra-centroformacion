@@ -1,0 +1,3 @@
+# Credenciales MongoDB Atlas
+
+# Pegar aquí las credenciales cuando el usuario las proporcione
